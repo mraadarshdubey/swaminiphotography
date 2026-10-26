@@ -1,0 +1,17 @@
+# Enquiry logs (customer personal data)
+logs/*.log
+
+# Original client photos/videos from Google Drive - keep them in Drive, not in git.
+# The website only uses the optimised copies in assets/images/.
+raw_drive_images/
+organized_drive_images/
+full_fresh_downloads/
+categories.json
+
+# Interrupted downloads and large media
+*.part
+*.mp4
+*.mov
+
+# Tool folders
+.kilo/

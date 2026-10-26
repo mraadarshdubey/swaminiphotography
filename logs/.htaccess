@@ -1,0 +1,2 @@
+# Enquiry logs contain customer personal data - never serve them publicly
+Require all denied
