@@ -24,7 +24,6 @@ A luxury editorial one-page photography portfolio and lead generation web applic
 ```
 photgraphy_website/
 ├── index.php                      # Main one-page PHP website
-├── index.html                     # Instant static HTML5 preview
 ├── api/
 │   └── contact.php                # Secure AJAX API endpoint with CSRF, Honeypot & Rate-limiting
 ├── includes/
@@ -53,9 +52,3 @@ photgraphy_website/
 php -S localhost:8000
 ```
 Open `http://localhost:8000` in your browser.
-
-### With Python (Static Preview):
-```bash
-python -m http.server 8080
-```
-Open `http://localhost:8080` in your browser.

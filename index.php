@@ -2163,7 +2163,7 @@ $csrf_token = generate_csrf_token();
       <!-- Bottom Copyright & Meta Bar -->
       <div class="footer-bottom-bar">
         <div class="footer-copy-left">
-          &copy; 2026 Swamini Photography &amp; Cinematography.<br>All Rights Reserved.
+          &copy; 2026 KALYANI DIGITAL PHOTO STUDIO<br>All Rights Reserved.
         </div>
 
         <div class="footer-quote-center">
